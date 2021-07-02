@@ -32,7 +32,7 @@ function Sidebar(props) {
         <Container>
             <WorkspaceContainer>
                 <Name>
-                    CleverProgrammer
+                    CodeHolders
                 </Name>
                 <NewMessage>
                     <AddCircleOutlineIcon />
